@@ -207,10 +207,5 @@ npm test
 - User activity reports
 - Export functionality
 
-## Support
 
-For issues, please contact: support@smartapproval.com
 
-## License
-
-MIT
